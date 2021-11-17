@@ -13,7 +13,7 @@ humandate: "Nov 17-18, 2021"    # human-readable dates for the workshop (e.g., "
 humantime: "9 am-5 pm ET<br>(2 pm-10 pm UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2021-11-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-11-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Annajiat Alim Rasel", "Brian Gue"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Annajiat Alim Rasel", "Adam Hughes", "Brian Gue"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Catherine Martlin", "Yotam Cohen", "Erik Tollerud"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ebecker@carpentries.org", "annajiat@gmail.com","briangue@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-11-17-stsci-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
